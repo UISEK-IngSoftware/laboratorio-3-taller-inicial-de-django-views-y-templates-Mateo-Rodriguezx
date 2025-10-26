@@ -11,9 +11,9 @@ El estudiante debe ser capaz de reconocer y aplicar conceptos básicos del Parad
 ## Datos del estudiante
 Nombre del estudiante: Mateo Rodriguez
 
-Nivel: Tercer nivel 
+Nivel: [Nivel] 
 
-Carrera: Ingenieria en software
+Carrera: [Carrera del estudiante aquí] 
 
 ## Tareas a realizar
 1. Crear la aplicación para la gestión de Pokemones
